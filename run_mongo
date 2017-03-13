@@ -1,0 +1,2 @@
+docker build -t jgaebel/mongo ./mongo
+docker run -p 28017:27017 -d -t jgaebel/mongo
