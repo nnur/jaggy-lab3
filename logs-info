@@ -1,0 +1,38 @@
+Containers: 2
+ Running: 2
+ Paused: 0
+ Stopped: 0
+Images: 2
+Server Version: 17.03.0-ce
+Storage Driver: overlay2
+ Backing Filesystem: extfs
+ Supports d_type: true
+ Native Overlay Diff: true
+Logging Driver: json-file
+Cgroup Driver: cgroupfs
+Plugins: 
+ Volume: local
+ Network: bridge host macvlan null overlay
+Swarm: inactive
+Runtimes: runc
+Default Runtime: runc
+Init Binary: docker-init
+containerd version: 977c511eda0925a723debdc94d09459af49d082a
+runc version: a01dafd48bc1c7cc12bdb01206f9fea7dd6feb70
+init version: 949e6fa
+Kernel Version: 4.8.0-0.bpo.2-amd64
+Operating System: Debian GNU/Linux 8 (jessie)
+OSType: linux
+Architecture: x86_64
+CPUs: 8
+Total Memory: 3.862 GiB
+Name: mim
+ID: XMCG:HIVM:YEZ2:7PIW:RI7H:AIGY:Z33I:3N4Z:5DWP:DR3X:KEOP:IXIR
+Docker Root Dir: /var/lib/docker
+Debug Mode (client): false
+Debug Mode (server): false
+Registry: https://index.docker.io/v1/
+Experimental: false
+Insecure Registries:
+ 127.0.0.0/8
+Live Restore Enabled: false

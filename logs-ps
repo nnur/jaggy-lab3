@@ -1,0 +1,3 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                         NAMES
+4822d91857a4        nginx:latest        "nginx -g 'daemon ..."   3 minutes ago       Up 3 minutes        0.0.0.0:80->80/tcp, 443/tcp   lab3_nginx_1
+e310479eeddf        mongo:3             "/entrypoint.sh mo..."   3 minutes ago       Up 3 minutes        0.0.0.0:27017->27017/tcp      lab3_mongo_1
